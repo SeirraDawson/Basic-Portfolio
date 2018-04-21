@@ -234,6 +234,7 @@ h3,
 }
 
 .auth-image {
+  width: 200px;
   float: left;
   margin-top: 10px;
   margin-right: 25px;
